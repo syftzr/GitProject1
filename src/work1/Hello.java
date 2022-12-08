@@ -6,6 +6,7 @@ public class Hello {
         System.out.println("created Git repository");
         System.out.println("made few commits");
         System.out.println("Local Repo is already published to Github");
+        System.out.println("Doing more work");
 
     }
 }
